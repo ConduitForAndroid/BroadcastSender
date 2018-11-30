@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BroadcastSender</string>
+    <string name="broadcast_code">Broadcast code</string>
+    <string name="send_broadcast">Send broadcast</string>
+    <string name="send_success">Sent a broadcast to at least one recipient.\n(If nothing happened, maybe this app doesn\'t hold the right permission.)</string>
+    <string name="send_failure">Couldn\'t find any broadcast receivers.</string>
+</resources>
